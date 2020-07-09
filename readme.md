@@ -8,7 +8,7 @@ I live on the sunny Gold Coast, yes... Am an Aussie! No I don't ride a kangaroo 
 - Relay
 - ... trying to learn Rust
 
-#### ♥ Mega passionate about:
+#### ❤ Mega passionate about:
 
 - Design Systems (author of https://github.com/autoguru-au/overdrive/)
 - Relay, or realy any GraphQL ⚡
