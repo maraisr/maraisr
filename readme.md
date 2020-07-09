@@ -1,6 +1,6 @@
 # G'day I'm Marais! 👋
 
-I live on the sunny Gold Coast, yes... Am an Aussie! No I don't ride a kangaroo to work.
+I live on the sunny Gold Coast, yes... am an Aussie! No I don't ride a kangaroo to work.
 
 #### 🏖 Things I'm working on:
 
