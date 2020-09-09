@@ -4,7 +4,7 @@ I live on the sunny Gold Coast, yes... am an Aussie! No I don't ride a kangaroo 
 
 #### 🏖 Things I'm working on:
 
-- Module Fedarion
+- Module Federation
 - Relay
 - ... trying to learn Rust
 
