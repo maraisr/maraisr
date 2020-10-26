@@ -14,6 +14,6 @@ I live on the [sunny Gold Coast](https://www.google.com/search?q=sunny+gold+coas
 - Relay, or really any GraphQL ⚡
 - Developer Experience
 
-Please do go checkout me out on Twitter [@codervandal](https://twitter.com/codervandal), and my [Sponsors](https://github.com/sponsors/maraisr) page!
+Please do go checkout me out on Twitter [@slightlycode](https://twitter.com/slightlycode), and my [Sponsors](https://github.com/sponsors/maraisr) page!
 
 Cheers 🍻
