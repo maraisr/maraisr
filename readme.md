@@ -10,7 +10,7 @@ I live on the [sunny Gold Coast](https://www.google.com/search?q=sunny+gold+coas
 
 #### ❤ Mega passionate about:
 
-- Design Systems (author of [Overdrive](https://github.com/autoguru-au/overdrive/))
+- Design Systems
 - Relay, or really any GraphQL ⚡
 - Developer Experience
 
